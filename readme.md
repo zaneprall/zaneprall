@@ -1,18 +1,7 @@
 <html>
 
-
-
-
-
-
-
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=670&lines=Hello+there%2C+I'm+Zane.;Feel+free+to+reach+out+if+you'd+like+to+collaborate." alt="Typing SVG" />
-</a>
-  <p>
-  <h3>Languages</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=670&lines=Hello+there%2C+I'm+Zane.;Feel+free+to+reach+out+if+you'd+like+to+collaborate." alt="Typing SVG" /></a>
+  <p><h3>Languages</h3>
   <p> <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>  
   <a href="#"><img alt="Powershell" src ="https://img.shields.io/badge/-powershell-darkblue?logo=Powershell&logoColor=white"></a>
   <a href="#"><img alt="CommandLine" src ="https://img.shields.io/badge/-Command%20Line-blue?logo=windowsterminal&logoColor=white"></a>
@@ -66,4 +55,4 @@
 
 
 
-</hmtl>
+</html>
